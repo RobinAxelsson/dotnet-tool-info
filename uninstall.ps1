@@ -1,0 +1,1 @@
+dotnet tool uninstall tool-info -g
